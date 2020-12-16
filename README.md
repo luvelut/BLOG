@@ -4,8 +4,8 @@ Site web type blog   (2019)
 ## PRESENTATION
 
 Première réalisation web dans le cadre de la première année de DUT, le but étant de placer  
-différents composants pour découvrir un maximum de concepts et de principes de mise en page. 
-L'architecture du site était imposé, le design partiellement libre.
+différents composants pour découvrir un maximum de concepts et de principes de mise en page.   
+L'architecture du site était imposée, le design partiellement libre.
 
 
 ## COMPETENCES ACQUISES
