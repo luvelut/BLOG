@@ -1,0 +1,231 @@
+
+@font-face {
+    font-family: 'acherusgrotesque-regular';
+    src: url('../polices/acherusgrotesque-regular-webfont.woff2') format('woff2'),
+         url('../polices/acherusgrotesque-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+	background-image: url(../photos/monFond.png);
+	background-attachment:fixed;
+	background-size:100%;
+	font-family:'acherusgrotesque-regular';
+	font-size: 19;
+}
+div { 
+	color: #000000;
+	text-align: right;
+}
+h1 {
+	width :60%;
+	color: #000000;
+	text-align: right;
+	text-shadow: 30px 30px grey;
+	
+}
+
+h2 {
+	text-align: right;
+}
+
+h4 {
+	color:#999999;
+}
+
+a {
+	color: #555753;
+	text-align: center;
+}
+
+#image img {
+	width: 300px;
+	height: 300px;
+}
+
+#image {
+	width :60%;
+}
+
+section {
+	width :60%;
+
+}
+
+#pagesExternes {
+	text-align: center;
+	width : 100%;
+}
+
+#pagesExternes section {
+	width: 100%;
+}
+
+
+aside {
+	order: 1;
+	text-align:left;
+	margin-top: 130px;
+	border: 1px solid #000000;
+	padding-right: 10px;
+	/*float: right;*/
+	margin-right: 10%;
+	height:475px;
+	border-radius: 50px;
+	background: linear-gradient(to left, #E7E7E7, white 90%);
+}
+
+
+table {
+	border: 3px solid black; 
+	border-collapse: collapse;
+	text-align:center;
+	width: 80%;
+	margin: auto;
+	background: white;
+ }
+ 
+td, th { 
+	border-width:2px;
+	border-style:solid; 
+	border-color:grey;
+	padding: 5px;
+}
+
+td{
+	height:120px;
+	text-align: center;
+}
+
+nav{
+	display: inline-block;
+	background-color:white;
+	padding: 15px;
+	text-align: center;
+	font-size:18;
+	margin:auto;
+	width:100%;
+
+}
+
+nav a,span{
+	padding: 10px;
+	color:#095228; 
+	text-decoration:none;
+}
+
+#photos img {
+	height: 400px;
+	padding: 15px;
+}
+
+#photo0 img {
+	height: 600px;
+}
+#photo0 {
+	margin-right: 25%;
+	}
+	
+
+
+video {
+	width:800px;
+	margin-left:35%;
+}
+
+footer {
+	//*text-align: left; *//
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-end;
+}
+
+figcaption {
+	font-size: 20;
+	font-weight:bold;
+}
+
+#description {
+	text-align:left;
+	position: relative;
+	bottom: 290px;
+	left:100px;
+	width: 300px;
+	
+}
+
+#logos {
+	position: fixed;
+	top:100px;
+	right:0px;
+}
+
+#logos img {
+	width: 50px;
+	padding:5px;
+}
+
+#twi img {
+	width: 60px;
+}
+
+a:hover {
+	color:#095228;
+}
+
+#sousmenu {
+	display: none;
+}
+
+
+span:hover #sousmenu { 
+	display: block;
+}
+
+#sousmenu a {
+	display: block;
+}
+
+#menu {
+	box-shadow: 10px 10px 10px #E7E7E7;
+	margin-bottom: 60px;
+}
+
+#main {
+	display: flex;
+	flex-direction: row;
+}
+
+#centre {
+	width: 55%;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+	padding-right: 65px;
+}
+
+.petitstitres {
+	text-align: center;
+	color:#095228
+}
+
+.photoGroupe {
+	width: 250px;
+}
+
+#contact {
+	color: black;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+	width: 30%;
+	background-color:white;
+	margin-left:35%;
+ }
+ 
+ 
+
