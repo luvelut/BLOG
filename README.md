@@ -12,3 +12,9 @@ L'architecture du site était imposée, le design partiellement libre.
 
 * Découverte des flexbox
 * Découverte et apprentissage des langages HTML et CSS
+* Respect des consignes graphiques
+
+
+## INFORMATION UTILE
+
+Acceuil du site : *monSite.html*
